@@ -4,9 +4,9 @@ An important theory invented by me on 3/30/2023.
 
 The author(which is me) suggests that humans are state machines and language acquisition/maintenance is a thing only because all state machines form a large distributed KV store.
 
-## Rule 1: Local Communication, Global Convergence
+## Rule 1 - Local Communication, Global Convergence
 ![](imgs/global-convergence)
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ *line weight represents communication frequency*
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ *line weight represents communication frequency*
 
 Newcomers(babies)<sup>[0]</sup> join the system and then perform log catch-up<sup>[1]</sup> with their most ajacent nodes(parents). Even though this kind of communication only happens locally, all the state machines in non-partitioned networks(countries) will eventually converge<sup>[2]</sup>.
 
@@ -14,3 +14,21 @@ Newcomers(babies)<sup>[0]</sup> join the system and then perform log catch-up<su
 [0] In this rule we are talking about native speakers. \
 [1] Log catch-up refers to language acquisition. \
 [2] Convergence means when receiving a message "How are you", 99.99 percent of the state machines will reply with "I'm good".
+
+
+## Rule 2 - Leader/Follower Model
+
+## Rule 3 - Dialects: Log Divergence Under Partition
+
+## Rule 4 - Language Extinction: Insufficient Replication 
+
+## Rule 5 - Frequency is King
+
+## Rule 6 - Append-only: The Nightmare of Second Language Learners
+
+## Rule 7 - State Machine Caches: LRU and LFU
+
+
+
+
+# To be continued
