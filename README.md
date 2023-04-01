@@ -1,7 +1,7 @@
 # Human Language is a Distributed KV Store
 An important theory invented by me on 3/30/2023. \
 \
-*This is a promising Nobel Prize winning theory, so you will definitely get sued if you claim you came up it.*
+*This is a promising Nobel Prize winning theory, so you will definitely get sued if you claim you came up with it.*
 ![](imgs/input-output)
 
 The author(which is me) suggests that humans are state machines and language acquisition/maintenance is a thing only because all state machines form a fault-tolerant distributed KV store.
