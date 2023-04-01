@@ -1,5 +1,5 @@
 # Human Language is a Distributed KV Store
-An groundbreaking theory created by me on 3/30/2023. \
+A groundbreaking theory created by me on 3/30/2023. \
 \
 *This is a promising Nobel Prize winning theory, so you will definitely get sued if you claim you came up with it.*
 ![](imgs/input-output)
