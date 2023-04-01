@@ -1,5 +1,5 @@
 # Human Language is a Distributed KV Store
-An important theory invented by me on 3/30/2023. \
+An groundbreaking theory created by me on 3/30/2023. \
 \
 *This is a promising Nobel Prize winning theory, so you will definitely get sued if you claim you came up with it.*
 ![](imgs/input-output)
@@ -26,9 +26,11 @@ Newcomers(babies)<sup>[0]</sup> join the system and then perform log catch-up<su
 
 ## Rule 5 - Frequency is King
 
-## Rule 6 - Append-only: The Nightmare for Second Language Learners
+## Rule 6 - Brain: An Unreliable Volatile Cache
 
-## Rule 7 - State Machine Caches: LRU and LFU
+## Rule 7 - Append-only: The Nightmare for Second Language Learners
+
+
 
 
 
