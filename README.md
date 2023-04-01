@@ -26,7 +26,7 @@ Newcomers(babies)<sup>[0]</sup> join the system and then perform log catch-up<su
 
 ## Rule 5 - Frequency is King
 
-## Rule 6 - Append-only: The Nightmare of Second Language Learners
+## Rule 6 - Append-only: The Nightmare for Second Language Learners
 
 ## Rule 7 - State Machine Caches: LRU and LFU
 
