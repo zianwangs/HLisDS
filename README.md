@@ -6,7 +6,7 @@ The author(which is me) suggests that humans are state machines and language acq
 
 ## Rule 1: Local Communication, Global Convergence
 ![](imgs/global-convergence)
-$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ *line weight represents communication frequency*
+$~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~$ *line weight represents communication frequency*
 
 Newcomers(babies)<sup>[0]</sup> join the system and then perform log catch-up<sup>[1]</sup> with their most ajacent nodes(parents). Even though this kind of communication only happens locally, all the state machines in non-partitioned networks(countries) will eventually converge<sup>[2]</sup>.
 
